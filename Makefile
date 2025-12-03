@@ -1,5 +1,5 @@
-GOVERSION:="1.20.14"
-VERSION:="0.7.0"
+GOVERSION:="1.25.4"
+VERSION:="0.37.0"
 
 all: 
 	make go-version-set upgrade tests
