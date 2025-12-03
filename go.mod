@@ -1,6 +1,6 @@
 module github.com/garcia-jc/gokart
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/fatih/color v1.12.0
